@@ -61,7 +61,7 @@ This tool takes a Zotero collection report (HTML format) and extracts key biblio
    - **Mac:** Press `Cmd + S`
 2. In the save dialog:
    - Choose "Web Page, HTML Only" or "HTML File" format
-   - Save as `"Zotero Report 1.html"` (or update the filename in the script)
+   - Save as `"Zotero Report.html"` (or update the filename in the script)
    - Remember the location where you saved it
 
 ### Step 3: Run the Parser
